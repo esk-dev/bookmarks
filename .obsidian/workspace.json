@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "714ed747a88c9781",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d016a0292572d95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3c8b51c8e5672cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f7176a36345afe1",
+    "type": "split",
+    "children": [
+      {
+        "id": "691da8311b1707cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1ae0dec64ab952b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cf5226d044abc8f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4913a52b8a4581fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "55d6e2fb40d62f0d",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296.5
+  },
+  "right": {
+    "id": "d57065139aada5a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f6f05fb5d32a346",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b73e4052f9308e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "cce910e559eddd1d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "452fdaefeb23a425",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6582da6ec45779dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-importer:Open Importer": false,
+      "audio-recorder:Start/stop recording": false,
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "55d6e2fb40d62f0d",
+  "lastOpenFiles": [
+    "Начисления/Проект начисления.md",
+    "Untitled.md",
+    "Начисления/Карточка агентских продаж.md",
+    "About side projects/Mind about weather app.md",
+    "work/История для продаж.md",
+    "work/Предпросмотр вложения.md",
+    "learnings/How to flutter .md",
+    "Tags",
+    "learnings/learnings.md",
+    "learnings",
+    "work/work.md",
+    "work",
+    "Бизнес концепция.md",
+    "2024-09-30.md",
+    "Тестовое.md",
+    "Untitled Kanban.md",
+    "Конспекты .md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Вопросы к собеседованию.md",
+    "Отчёты.md",
+    "Angular.md",
+    "Начисления/Схемы.canvas",
+    "Vault.md",
+    "Начисления/Начисления.md",
+    "Начисления",
+    ".md",
+    "About side projects/Design work.md",
+    "HR Statuses.md",
+    "Frontend Wiki 30fed34c20e044eba82fbd254f7cd4c9/Вопросы к собеседованию 8ede8bfc1bda4fe3892de94493e99044.md",
+    "Import from notion/╨Я╤А╨╕╨▓╤П╨╖╨║╨░ qp ╨╕ ╤Д╨╕╨╗╤М╤В╤А╨╛╨▓ ╨║ ╤А╨╡╨░╨║╤В╨╕╨▓╨╜╨╛╨╕╠Ж ╤Д╨╛╤А╨╝╨╡ b9dbb422fc2a4c91a4b43f40909241de.md",
+    "Import from notion/╨Я╤А╨░╨▓╨║╨╕ ╨╖╨░╨┐╤А╨╛╤Б ╨╜╨░ ╨│╨╕╨│╨░╨▒╨╕╤В f9a1ee5b414d40ce90f94a978fed873a.md",
+    "Import from notion/╨Я╨╛╨╕╤Б╨║ ╤А╨░╨▒╨╛╤В╤Л 0f2f1e32dd314c8c8804e083a9a31270.md",
+    "Import from notion/╨Ш╨╖╤Г╤З╨╡╨╜╨╕╨╡ ╤В╨╡╤Б╤В╨╛╨▓ 3ec3e0f61ba44f6ebbbac99e062b3722.md",
+    "Frontend Wiki 30fed34c20e044eba82fbd254f7cd4c9",
+    "Import from notion/Untitled.png",
+    "Import from notion/Untitled 1.png",
+    "Import from notion/Untitled 2.png",
+    "HTML import",
+    "About side projects",
+    "Import from notion",
+    "index.html"
+  ]
+}

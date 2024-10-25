@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"8b9a9a09c6dab1e8","x":-1200,"y":110,"width":400,"height":400,"type":"file","file":"Начисления/Проект начисления.md"},
+		{"id":"94e44e8525f37929","x":-400,"y":-640,"width":1000,"height":600,"type":"text","text":"# crm/payroll_supplement\n\n---\n\n### Карта надбавки сотрудника\n\n```\npublic supplement_kind_id: number = null; // Связь с crm/payroll_suplements_kinds\npublic current_stage_id: number = null; // Связь с crm/payroll_supplements_stages\npublic month: string = null;\npublic start_period?: string = null;\npublic end_period?: string = null;\npublic supplement_sum: number = null;\npublic data: Record<string, unknown> = null;\npublic remark: string = null;\npublic reason: string = null;\n\n\npublic getSupplementAttachment() \n\npublic getSupplementType()\n```"},
+		{"id":"32a43dc4ba3bef03","x":-400,"y":-1120,"width":480,"height":420,"type":"text","text":"# crm/payroll_supplement_stage\n\n---\n\n### Стадии согласования стадии\n\n```\npublic payroll_supplement_id: number = null;\npublic responsible_user_id: number = null;\npublic assistant_id: number = null;\npublic level: number = null;\npublic stage: string = null;\npublic status: string = null;\n\ngetResponsibleUser()\n\ngetAssistantUser()\n\ngetPayrollSupplement()\n```"},
+		{"id":"d6b9aa25590cd42d","x":-1040,"y":-810,"width":580,"height":220,"type":"text","text":"# Создание карточки\n#  Карта надбавки к ЗП сотрудникам\n---\nСоздание сущности - crm/payroll_supplement\n\n- [ ] "}
+	],
+	"edges":[]
+}
